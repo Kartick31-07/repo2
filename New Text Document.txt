@@ -1,9 +1,0 @@
-git clone
-cd repo name
-git add new file name
-git commit -m "comments"
-git push origin main-used to make changes from vs code to git
-git pull-used to commit changes from git repo to vs code like adding folder or changing the contents of the folder
-cd ..-to come one step back from the path
-git init-loads .git folder into the newly created folder from the vs code 
-git add.-adds all the modified files to the repo 
